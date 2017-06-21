@@ -1,8 +1,11 @@
-##### Pre-requisites
+#### Pre-requisites
 Mysql should be up and running
 
-##### To install
+#### To install
 ```npm install```
 
-##### To run
+#### To run
 ```npm start```
+
+#### URL
+```localhost:3000```
